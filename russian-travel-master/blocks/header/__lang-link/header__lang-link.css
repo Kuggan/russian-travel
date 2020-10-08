@@ -1,0 +1,23 @@
+
+.header__lang-link{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+  margin:0;
+  margin-right:48px;
+   
+}
+
+@media screen and (max-width:1023px){
+  .header__lang-link{
+    margin-right:24px;
+  }
+}
+@media screen and (max-width:425px){
+  .header__lang-link{
+    margin-right:16px;
+  }
+}
