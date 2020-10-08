@@ -4,21 +4,29 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    max-width:984px;
+    margin:0 auto 92px;
        
 }
 
-/*@media screen and (max-width: 1279){
-    .place{
-       min-width: 928px;
-     } 
-  }
-@media screen and (max-width: 1023){
-     .place{
-        min-width: 928px;
-    } 
-}
-@media screen and (max-width: 767){
-     .place{
-        min-width: 720px;
-    }
-}*/
+@media screen and (max-width: 1279px){
+    .places{
+      max-width:928px;
+      
+         
+     }
+   
+   }
+   @media screen and (max-width: 1023px){
+    .places{
+       max-width:720px;
+       margin-bottom: 88px;
+       }  
+   }
+   @media screen and (max-width: 425px){
+     .places{
+        max-width:320px;
+         margin:0;
+         margin-bottom: 64px;
+       }  
+   }
