@@ -4,7 +4,7 @@
   grid-template-rows: repeat(2, minmax(min-content, auto));
   column-gap: 40px;
   justify-content: start;
-  align-content:end ;
+  align-content:end;
   margin-bottom: 80px;
 }
 .place:last-of-type{
