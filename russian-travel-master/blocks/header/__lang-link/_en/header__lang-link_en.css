@@ -10,6 +10,10 @@
   
   
 }
+.header__lang-link_en:hover{
+  opacity: 0.8;
+
+}
 
 @media screen and (max-width:425px){
   .header__lang-link_en{

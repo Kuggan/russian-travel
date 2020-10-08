@@ -11,7 +11,10 @@
   text-decoration-line: underline;
   
 }
+.header__lang-link_rus:hover{
+  opacity: 0.8;
 
+}
 @media screen and (max-width:425px){
   .header__lang-link_rus{
     font-size: 18px;
