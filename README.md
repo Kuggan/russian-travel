@@ -1,5 +1,5 @@
 # russian-travel
-Проект 3: Путешествие по России
+Проект 3: 
 [Путешествие по России](https://github.com/Kuggan/russian-travel.git)
 ### Обзор
 * Цели и задачи.
