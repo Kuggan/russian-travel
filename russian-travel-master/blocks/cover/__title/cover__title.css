@@ -3,7 +3,7 @@
   width:47%;
   font-family: 'Inter','Arial', sans-serif;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   text-align: center;
@@ -30,7 +30,7 @@
   }
 
 }
-@media screen and (max-width:425px){
+@media screen and (max-width:680px){
   .cover__title{
     min-width: 250px;
     font-size: 32px;

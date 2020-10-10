@@ -13,7 +13,7 @@
       margin-right:24px;
     }
   }
-  @media screen and (max-width:425px){
+  @media screen and (max-width:680px){
     .header__lang-links{
       margin-right:16px;
     }

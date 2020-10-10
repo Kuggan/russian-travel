@@ -11,9 +11,13 @@
   
   
 }
+.footer__link:hover{
+  opacity: 0.8;
+  transition: transform .2s ease-in;
 
+}
 
-@media screen and (max-width:425px){
+@media screen and (max-width:680px){
   .footer__link{
     font-size: 24px;
     line-height: 1;
