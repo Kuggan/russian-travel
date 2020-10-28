@@ -1,6 +1,6 @@
 # russian-travel
 Проект 3: 
-[Путешествие по России](https://github.com/Kuggan/russian-travel.git)
+[Путешествие по России](https://kuggan.github.io/russian-travel/index.html)
 ### Обзор
 * Цели и задачи.
 * Что нового.
