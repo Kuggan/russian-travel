@@ -1,7 +1,0 @@
-.cover__background{
-    /*min-width:320px;*/
-    width:100%;
-    object-fit: cover;
-    display:block;
-    margin: 0;
-}

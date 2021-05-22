@@ -1,0 +1,19 @@
+.place__link{
+font-family: 'Inter','Arial',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 1.2;
+text-decoration-line: underline;
+color: #FFFFFF;
+min-width: 456px;
+}
+.place__link:hover{
+  opacity: .8;
+  transition: transform .2s ease-in;
+}
+@media screen and (max-width:1023px){
+  .place__link{
+    min-width: 352px;
+  }
+}
